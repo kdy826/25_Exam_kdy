@@ -16,6 +16,7 @@ public class Main {
 
             }
             System.out.printf("\n");
+            System.out.println();
 
 
         }
